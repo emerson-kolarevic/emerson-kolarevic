@@ -1,4 +1,4 @@
-# Emerson Pereira Kolarevic
+# Emerson Kolarevic
 
 **Profissional em transição estratégica para a tecnologia**  
 Desenvolvedor Back-End | Estudante de Análise de Sistemas | Explorador de IA e Dados
