@@ -7,9 +7,9 @@ Desenvolvedor Back-End | Estudante de Análise de Sistemas | Explorador de IA e 
 
 🎯 **Quem sou eu**
 
-Sou Emerson, um profissional com mais de 20 anos de experiência acumulada nas áreas de investimentos, finanças e empreendedorismo. Em 2016, após uma sólida jornada no mercado financeiro, decidi empreender e fundei a marca de salões e cosméticos *Seja Cachos*, onde atuei como gestor geral até hoje.
+Sou Emerson, um profissional com mais de 20 anos de experiência acumulada nas áreas de investimentos, finanças e empreendedorismo. Em 2016, após uma sólida jornada no mercado financeiro, decidi empreender e fundei a marca de salões e cosméticos *Seja Cachos*, onde atuo como gestor geral até hoje.
 
-Atualmente, estou em transição para o setor de tecnologia, onde encontrei um novo propósito e um campo fértil para aplicar minha lógica, disciplina e paixão por resolver problemas com código. Estou cursando **Análise e Desenvolvimento de Sistemas**, além de realizar formações práticas em **Python, HTML, CSS e JavaScript** — com SQL e Java na sequência.
+Atualmente, estou em transição para o setor de tecnologia, onde encontrei um novo propósito e um campo fértil para aplicar minha lógica, disciplina e paixão por resolver problemas com código. Estou cursando formações práticas em **Python, HTML, CSS e JavaScript** — com SQL e Java na sequência.
 
 ---
 
@@ -50,7 +50,6 @@ Agora, aplico essa bagagem no universo tech com total dedicação e disciplina.
 
 📚 **Formação**
 
-- 🎓 Graduação em Análise e Desenvolvimento de Sistemas – *Estácio (2024–2027)*
 - 💼 MBA Executivo em Finanças – *IBMEC (2024)*
 - 📊 Bacharelado em Ciências Econômicas – *Faculdades Oswaldo Cruz (2003)*
 
